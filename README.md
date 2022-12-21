@@ -1,2 +1,1 @@
-# simple_shell
-a simple shell project
+Creating a Simple Shell Program
